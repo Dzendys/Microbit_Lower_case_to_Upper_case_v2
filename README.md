@@ -1,4 +1,4 @@
-# Lower-case-to-upper-case_v2
+# Microbit_Lower_case_to_Upper_case_v2
 Changes the text case to the opposite (using ASCII)
 
 # Screenshot of all
